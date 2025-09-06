@@ -1,0 +1,7 @@
+﻿  0327-2.cpp
+C:\coding\c\dl\0327-2\0327-2.cpp(4,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\coding\c\dl\0327-2\0327-2.cpp(16,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\coding\c\dl\0327-2\0327-2.cpp(24,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\coding\c\dl\0327-2\0327-2.cpp(30,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\coding\c\dl\0327-2\0327-2.cpp(40,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0327-2.vcxproj -> C:\coding\c\dl\dl_c\x64\Debug\0327-2.exe
